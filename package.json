@@ -1,0 +1,16 @@
+{
+  "name": "connect_four_js",
+  "version": "1.0.0",
+  "description": "Implement previous Ruby project using Javascript",
+  "main": "index.js",
+  "scripts": {
+   "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Bryan & Mostafa",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
